@@ -40,10 +40,6 @@
     border: 3px solid var(--logo);
   }
 
-  body {
-      background-color: var(--footerBackground);
-  }
-
 main {
     max-width: 1440px;
     width: 100%;
